@@ -1,0 +1,100 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "job-hunter"
+version = "0.1.0"
+description = "Automated job scraping pipeline for security engineer roles"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Frangel Crespo" }]
+keywords = ["jobs", "scraper", "automation", "security", "remote"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+    "requests>=2.31.0",
+    "python-dateutil>=2.8.2",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+llm = [
+    "google-generativeai>=0.7.0",
+    "groq>=0.11.0",
+]
+gmail = [
+    "google-auth-oauthlib>=1.2.0",
+    "google-api-python-client>=2.110.0",
+]
+dev = [
+    "pytest>=7.4",
+    "pytest-cov>=4.1",
+    "ruff>=0.5.0",
+    "pre-commit>=3.6",
+]
+
+[project.urls]
+Homepage = "https://github.com/frangelbarrera/job-hunter"
+Repository = "https://github.com/frangelbarrera/job-hunter"
+Issues = "https://github.com/frangelbarrera/job-hunter/issues"
+
+[tool.setuptools.packages.find]
+include = ["scrapers*", "scripts*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "I",   # isort
+    "B",   # flake8-bugbear
+    "UP",  # pyupgrade
+    "RUF", # ruff-specific
+]
+ignore = [
+    "E501",  # line too long (handled by formatter)
+    "B008",  # function call in default argument (common in FastAPI)
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+[tool.pytest.ini_options]
+minversion = "7.4"
+testpaths = ["tests"]
+addopts = [
+    "-ra",
+    "--strict-markers",
+    "--strict-config",
+    "--cov=scrapers",
+    "--cov=scripts",
+    "--cov-report=term-missing",
+    "--cov-fail-under=40",
+]
+filterwarnings = [
+    "error",
+    "ignore::DeprecationWarning:pkg_resources.*",
+]
+
+[tool.coverage.run]
+source = ["scrapers", "scripts"]
+omit = ["*/tests/*", "*/__init__.py"]
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = false

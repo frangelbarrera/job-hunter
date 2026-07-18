@@ -1,0 +1,49 @@
+name: Scrape Jobs
+
+on:
+  schedule:
+    # Every 6 hours: 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # manual trigger from Actions tab
+
+permissions:
+  contents: write # required to commit data/jobs.json back to the repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.4.0
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run RemoteOK scraper
+        run: python -m scrapers.remoteok
+
+      - name: Run HackerNews scraper
+        run: python -m scrapers.hackernews
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Force add in case the file was previously tracked and then gitignored
+          git add -f data/jobs.json
+          if git diff --staged --quiet; then
+            echo "No new jobs to commit"
+          else
+            git commit -m "chore: refresh jobs data ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

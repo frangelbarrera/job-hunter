@@ -1,0 +1,50 @@
+# Target profile for the job matcher.
+# Copy to profile.yaml and edit with your own details.
+# This file is NOT committed (it's gitignored).
+
+target_title: Security Engineer
+seniority: junior  # junior | mid | senior
+remote_only: true
+
+stack:
+  - python
+  - typescript
+  - fastapi
+  - react
+  - nextjs
+  - pytest
+
+domains:
+  - security
+  - cybersecurity
+  - osint
+  - ics
+  - ot
+  - ml
+
+# Keywords that should boost the match score (case-insensitive)
+keywords:
+  - security
+  - python
+  - typescript
+  - remote
+  - junior
+  - entry
+  - graduate
+  - fastapi
+  - osint
+  - devsecops
+
+# Keywords that should disqualify a listing (case-insensitive)
+exclude_keywords:
+  - senior
+  - lead
+  - manager
+  - director
+  - principal
+  - staff
+  - 10+ years
+  - 7+ years
+
+# Minimum score (0-1) to be included in ranked output
+min_score: 0.15

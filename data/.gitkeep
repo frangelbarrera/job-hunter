@@ -1,0 +1,2 @@
+# Keep this file so the data/ directory is tracked.
+# Actual data files (jobs.json, ranked_jobs.json, drafts.json) are gitignored.
