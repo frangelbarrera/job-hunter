@@ -1,45 +1,6 @@
 [
   {
     "source": "hackernews",
-    "id": "48748034",
-    "title": "Embedded Rust Engineer",
-    "company": "Anori Tech",
-    "url": "https://news.ycombinator.com/item?id=48748034",
-    "description": "Anori Tech | Embedded Rust Engineer | Hamburg, Germany | HYBRID | Full-time | <a href=\"http:&#x2F;&#x2F;anoritech.com&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;anoritech.com&#x2F;</a><p>Apply here: <a href=\"https:&#x2F;&#x2F;nice-channel-658.notion.site&#x2F;Embedded-Rust-Engineer-m-f-d-3834b6f765ee81078002ffd5f2f5e767\" rel=\"nofollow\">https:&#x2F;&#x2F;nice-channel-658.notion.site&#x2F;Embedded-Rust-Engineer-...</a><p>We&#x27;re building a software-defined Battery Management System (BMS) platform + instant quote configuration frontend that gets battery manufacturers the right BMS in days, not years. Funded, prototype proven, first large customer contract, based in Hamburg.<p>You&#x27;d be our first engineering hire, owning the embedded (no_std) Rust firmware and working directly with the CTO (me) on implementation through certification.<p>Looking for: at least 1+ yr no_std production Rust, a testing&#x2F;quality mindset, and CI&#x2F;CD + HiL + coverage as everyday tools. Bonus: async Rust, ARM&#x2F;RISC-V tracing, CAN&#x2F;LIN&#x2F;BLE&#x2F;LTE, safety-critical (IEC 61508 &#x2F; ISO 26262).<p>Anyone interested, please reach out. Direct contact to me: stefan.akatyschew@anoritech.com",
-    "location": "See post",
-    "salary": null,
-    "tags": [],
-    "date_posted": "2026-07-01T15:04:08",
-    "scraped_at": "2026-07-18T15:32:39.202279+00:00"
-  },
-  {
-    "source": "hackernews",
-    "id": "48748028",
-    "title": "Lead Software Engineer, Data Sovereignty",
-    "company": "Conservation Metrics",
-    "url": "https://news.ycombinator.com/item?id=48748028",
-    "description": "Conservation Metrics | Lead Software Engineer, Data Sovereignty | REMOTE (US) | $124-150k with 4-day 38-hr workweek<p>Indigenous People around the world are working tirelessly to protect and manage their territories under mounting external threats. Conservation Metrics is a small, mission-driven company co-creating an open-source data platform designed to support territorial monitoring and Indigenous data sovereignty. It combines remote sensing products (maps, alerts, and change detection), mobile data collection tools, secure data warehousing, and governed data access to allow Indigenous communities to explore, analyze, and summarize their information.<p>Lead position: You will own architecture and data infrastructure. You will work across engineering and partner-facing teams to build systems that support Indigenous data sovereignty, secure collaboration, and long-term stewardship of community data. We are looking for someone who can work through hard technical trade-offs and commit. In addition, Leads at Conservation Metrics are hands-on, writing production code and reviewing PRs to stay close to the system.<p>Tech: PostgreSQL, Identity Systems (Auth0), Docker deployments on single-tenant stacks.<p>See link for example projects and how to apply: <a href=\"https:&#x2F;&#x2F;conservationmetrics.com&#x2F;careers&#x2F;lead-data-platform-engineer&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;conservationmetrics.com&#x2F;careers&#x2F;lead-data-platform-e...</a>",
-    "location": "See post",
-    "salary": null,
-    "tags": [],
-    "date_posted": "2026-07-01T15:03:53",
-    "scraped_at": "2026-07-18T15:32:39.202298+00:00"
-  },
-  {
-    "source": "hackernews",
-    "id": "48748008",
-    "title": "Senior Software Engineer (Frontend) &amp; Machine Learning Engineer",
-    "company": "WireScreen (Series A)",
-    "url": "https://news.ycombinator.com/item?id=48748008",
-    "description": "WireScreen (Series A) | Senior Software Engineer (Frontend) &amp; Machine Learning Engineer | NYC - hybrid | Full-time | $170k-$220k (frontend) + equity &#x2F; $150-$195k (ML eng) +equity |<p>WireScreen is a fast-growing Sequoia-backed Series A startup building the go-to open source intelligence platform for navigating global supply chains and China-related risk. While China maintains some of the world’s most detailed corporate ownership records, the real challenge is connecting the dots. That’s where we come in: surfacing the networks, relationships, and financial ties behind companies to support national security, compliance, and regulatory oversight.<p>We’re looking for senior software engineers on the frontend to help build the future of our platform: transitioning us to a component-based system all the way through to building beautiful pages that visualize the story of ownership, power, and influence in the Chinese corporate world.<p>For the frontend we’re looking for significant React experience as well as experience with at least one React framework, plus prior experience building or contributing to a component-based design system &amp; data viz work. At least 5 years experience with 8+ being a more likely level for this person.<p>We’re also looking for a machine learning engineers to level up our entity resolution algorithms and expand our use of LLM technology - for that role we’re looking for 4 years experience with training and deploying ML models in clustering problems, so either knowledge graphs, entity resolution, recommendation engines, cohort analysis or outlier&#x2F;anomaly detection.<p>In both cases you’d join an awesome, tight-knit group of great people who are working on real-world problems with big impact.<p>Apply here (Frontend): <a href=\"https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;wirescreen&#x2F;de6daaae-eb03-4551-809d-eaae9ce35b15?utm_source=xgRXlw271G\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;wirescreen&#x2F;de6daaae-eb03-4551-809d-...</a>\nApply here (Machine Learning): <a href=\"https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;wirescreen&#x2F;0a29bcab-59eb-4766-941b-643b9fb011e5?utm_source=xgRXlw271G\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;wirescreen&#x2F;0a29bcab-59eb-4766-941b-...</a><p>Or you can reach out to me directly at leo.green@wirescreen.ai - I lead recruiting here at WireScreen, but if I don&#x27;t know the answer I&#x27;ll ping our engineering folks and come back to you fast.",
-    "location": "See post",
-    "salary": null,
-    "tags": [],
-    "date_posted": "2026-07-01T15:02:59",
-    "scraped_at": "2026-07-18T15:32:39.202330+00:00"
-  },
-  {
-    "source": "hackernews",
     "id": "48748007",
     "title": "PrairieLearn (Remote US) — Full-Stack Software Engineer — TypeScript &#x2F; Post",
     "company": "PrairieLearn (Remote US) — Full-Stack Software Engineer — TypeScript &#x2F; Post",
@@ -23376,5 +23337,60 @@
     "tags": [],
     "date_posted": "2026-08-06T13:48:58",
     "scraped_at": "2026-08-06T23:46:28.888064+00:00"
+  },
+  {
+    "source": "remoteok",
+    "id": "1136231",
+    "title": "barista",
+    "company": "Cafe March 21",
+    "url": "https://remoteOK.com/remote-jobs/remote-barista-cafe-march-21-1136231",
+    "description": "<strong>Overview<br><br></strong>Languages<br><br>English<br><br>Education<br><br><ul><li> No degree, certificate or diploma <br><br></li></ul><strong>Experience<br><br></strong>No experience (will train)<br><br>On site<br><br>Work must be completed at the physical location. There is no option to work remotely.<br><br>Asset languages<br><br><ul><li>Japanese</li><li>Korean</li></ul><br/><br/>Please mention the word **POWERFULLY** and tag RNjguMjIwLjU4LjE1NA== when applying to show you read the job post completely (#RNjguMjIwLjU4LjE1NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "location": "Windsor, ",
+    "salary": null,
+    "tags": [
+      "education",
+      "non tech"
+    ],
+    "date_posted": "2026-08-06T01:12:05+00:00",
+    "scraped_at": "2026-08-07T01:57:10.979099+00:00"
+  },
+  {
+    "source": "remoteok",
+    "id": "1136269",
+    "title": "Maintenance Technician",
+    "company": "The McBride Group",
+    "url": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-the-mcbride-group-1136269",
+    "description": "<p>Join our team and become a part of a continuously expanding and financially sound multinational conglomerate - Goddard Enterprises Limited (GEL). <strong>McBride (Caribbean) Limited</strong> â a member of GEL, is a household aerosol manufacturing company that sells its products in 30 countries across the Caribbean and Latin America. &nbsp;We are looking for a talented individual who shares our values to join our team as <strong>Maintenance Technician</strong>. This position reports to the Maintenance Supervisor.</p><p><br></p><p><strong>THE ROLE:</strong>&nbsp;</p><p>The primary duties and responsibilities of the <strong>Maintenance Technician</strong> include but are not limited to:</p><p><br></p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conduct production line change overs and equipment setups.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Troubleshoot and repair mechanical, electrical and pneumatic faults on production and ancillary equipment.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perform planned preventive maintenance on all plant and equipment in accordance with the maintenance schedule.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conduct electrical fault finding, repairs and minor installations on plant and equipment.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complete and close out work orders in the maintenance management system.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assist with the installation and commissioning of new equipment and plant improvement projects.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perform fabrication works in support of repairs and projects.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maintain plant utilities and services, including compressed air systems.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check safety and emergency equipment to ensure functionality as scheduled.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complete reports and process documentation.</p><p>â¢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "location": "Oistins, ",
+    "salary": null,
+    "tags": [
+      "sys admin",
+      "infosec",
+      "education",
+      "technical",
+      "supervisor",
+      "customer support",
+      "finance",
+      "microsoft",
+      "exec",
+      "ops",
+      "legal",
+      "medical"
+    ],
+    "date_posted": "2026-08-05T23:50:54+00:00",
+    "scraped_at": "2026-08-07T01:57:10.979178+00:00"
+  },
+  {
+    "source": "hackernews",
+    "id": "49204595",
+    "title": "Software Engineers",
+    "company": "Freeform (<a href=\"http:&#x2F;&#x2F;freeform.co\" rel=\"nofollow\">http:&#x2F;&#x2F",
+    "url": "https://news.ycombinator.com/item?id=49204595",
+    "description": "Freeform (<a href=\"http:&#x2F;&#x2F;freeform.co\" rel=\"nofollow\">http:&#x2F;&#x2F;freeform.co</a>) | Software Engineers | Full-time | Onsite | Hawthorne, CA (Los Angeles County)<p>Freeform builds AI-native manufacturing systems that unify software, hardware, and physics to produce industrial-scale parts at the speed of human ideation. By treating manufacturing as a single integrated system, we unlock a new era of innovation where complex hardware is designed, built, and scaled without limits. This isn’t just an improvement; it’s a leap forward in how complex metal parts are made, with the ability to revolutionize industries like aerospace, defense, automotive, energy, and beyond. We are backed by top VCs including NVIDIA’s NVentures, Founders Fund, Threshold Ventures, and Apandion.<p>It’s a small, tight-knit team and you’d have the opportunity to own significant and impactful greenfield projects throughout the entire development lifecycle and much more. Our software team comes from the likes of Google, SpaceX, and Apple, and believes in taking a first principles approach to solving hard problems.<p>A glimpse into our software landscape - <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=nFWQArUkd5I\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=nFWQArUkd5I</a><p>Our feature in TechCrunch announcing our $67M Series B Raise! <a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;02&#x2F;19&#x2F;freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;02&#x2F;19&#x2F;freeform-raises-67m-series...</a><p>Current open positions:<p>+ Principal Software Engineer - <a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;27ajbj9k3us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;27ajbj9k3us</a><p>+ Senior Software Engineer - <a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;m2l08z853us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;m2l08z853us</a><p>+ Senior Software Engineer (Embedded) - <a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;hb838bth3us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;hb838bth3us</a><p>+ Senior Software Engineer (Full Stack Enterprise) - <a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;z1hbnfo33us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;z1hbnfo33us</a><p>+ Senior Software Engineer (Geometry Processing) - <a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;4rg6nrkp3us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;4rg6nrkp3us</a><p>+ Software Engineer - <a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;hnwff2s23us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;hnwff2s23us</a><p>+ Software Engineer (Embedded) - <a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;acaazaw13us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;acaazaw13us</a><p>+ Software Engineer (Full Stack Enterprise) - <a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;26cvuixl3us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;26cvuixl3us</a>",
+    "location": "See post",
+    "salary": null,
+    "tags": [],
+    "date_posted": "2026-08-07T00:45:01",
+    "scraped_at": "2026-08-07T01:57:12.152700+00:00"
   }
 ]
