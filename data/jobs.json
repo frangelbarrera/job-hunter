@@ -1,30 +1,6 @@
 [
   {
     "source": "remoteok",
-    "id": "1135133",
-    "title": "Customer Experience Specialist",
-    "company": "DraftKings Inc.",
-    "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-specialist-draftkings-inc-1135133",
-    "description": "At DraftKings, AI is becoming an integral part of both our present and future, powering how work gets done today, guiding smarter decisions, and sparking bold ideas. Itâs transforming how we enhance customer experiences, streamline operations, and unlock new possibilities. Our teams are energized by innovation and readily embrace emerging technology. Weâre not waiting for the future to arrive. Weâre shaping it, one bold step at a time. To those who see AI as a driver of progress, come build the future together.<br><br>The Crown Is Yours<br><br>As a Customer Experience Specialist, youâll help deliver exceptional customer experiences by partnering closely with our vendors and internal teams. Youâll support the day-to-day success of our outsourced operations, helping ensure customers receive consistent, high-quality support across every interaction. Working across Customer Experience, Shared Services, Analytics, Risk, and Technology teams, youâll solve operational challenges, identify opportunities for improvement, and drive performance that enhances the customer experience.<br><br>What you'll do<br><br><ul><li>Support the operational performance of Customer Experience vendors, helping ensure service level objectives, quality standards, and customer satisfaction goals are consistently achieved.</li><li>Serve as a key partner to vendor teams by resolving operational questions, coordinating cross-functional support, and helping remove obstacles that impact performance and the customer experience.</li><li>Review customer interactions, operational trends, and performance metrics to identify improvement opportunities, provide actionable feedback, and support continuous improvement initiatives.</li><li>Facilitate calibration sessions, performance reviews, associate huddles, and operational communications to reinforce quality expectations, share updates, and drive alignment across teams.</li><li>Support operational escalations and customer-impacting incidents by c",
-    "location": "Massachusetts, Massachusetts, United States",
-    "salary": null,
-    "tags": [
-      "education",
-      "game dev",
-      "recruiter",
-      "customer support",
-      "testing",
-      "microsoft",
-      "ops",
-      "stats",
-      "full time",
-      "non tech"
-    ],
-    "date_posted": "2026-07-21T04:03:19+00:00",
-    "scraped_at": "2026-07-22T08:03:25.210239+00:00"
-  },
-  {
-    "source": "remoteok",
     "id": "1135132",
     "title": "Auxiliar de Relacionamento Cirurgias Corporativo SP",
     "company": "Rede D'Or",
@@ -22870,5 +22846,18 @@
     "tags": [],
     "date_posted": "2026-08-10T02:11:32",
     "scraped_at": "2026-08-10T07:02:51.424057+00:00"
+  },
+  {
+    "source": "hackernews",
+    "id": "49241158",
+    "title": "Hello!<p>I’m interested in your Senior Fullstack Engineer position. I believe my",
+    "company": "Hello!<p>I’m interested in your Senior Fullstack Engineer position. I believe my",
+    "url": "https://news.ycombinator.com/item?id=49241158",
+    "description": "Hello!<p>I’m interested in your Senior Fullstack Engineer position. I believe my experience is a strong match:<p>- 7 years of fullstack development, primarily with TypeScript and Node.js,<p>- built a React frontend at Reelay for an AI voice assistant analyzing customer calls,<p>- the product processed audio through transcription, chunking, embeddings, Weaviate retrieval, and LLM analysis to generate summaries, agreements, action items, and key questions,<p>- developed the frontend against GraphQL APIs while also working on retrieval logic, structured LLM outputs, hallucination reduction, and latency&#x2F;cost optimization,<p>- designed high-load, real-time systems using WebSockets, Centrifugo, RabbitMQ, Redis, PostgreSQL, and ClickHouse,<p>- comfortable taking ownership: previously led three developers, distributed tasks, reviewed code, and mentored teammates,<p>- experienced working in small international teams and communicating in English.<p>I would be glad to discuss the role and the React product in more detail.<p>Best regards,<p>Vlad<p>bormisov1@gmail.com",
+    "location": "See post",
+    "salary": null,
+    "tags": [],
+    "date_posted": "2026-08-10T09:00:18",
+    "scraped_at": "2026-08-10T12:38:33.102509+00:00"
   }
 ]
