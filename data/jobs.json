@@ -1,41 +1,6 @@
 [
   {
     "source": "remoteok",
-    "id": "1135159",
-    "title": "Job 4",
-    "company": "TSC Travels",
-    "url": "https://remoteOK.com/remote-jobs/remote-job-4-tsc-travels-1135159",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<br><br>Time- 10:00:00-18:30:00<br/><br/>Please mention the word **SUSTAINABILITY** and tag RMTQ1LjEzMi4xMDIuMjI0 when applying to show you read the job post completely (#RMTQ1LjEzMi4xMDIuMjI0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "location": "London, ",
-    "salary": null,
-    "tags": [],
-    "date_posted": "2026-07-19T13:22:26+00:00",
-    "scraped_at": "2026-07-22T01:16:52.280184+00:00"
-  },
-  {
-    "source": "remoteok",
-    "id": "1135165",
-    "title": "Designer Residential",
-    "company": "NORR",
-    "url": "https://remoteOK.com/remote-jobs/remote-designer-residential-norr-1135165",
-    "description": "NORR is a global team of 800 architects, engineers, planners, and interior designers creating design strategies and solutions that express the unique vision of every project. Driven by a common purpose with our clients and partners, we share ideas to create and innovate, bringing people, design, and technologies together to think bigger and act bolder.<br><br>Our story began in 1938 and has evolved into an employee-owned, fully integrated firm committed to sustainable development goals across 13 market sectors in Canada, the US, and UK. Design excellence continues to guide everything we do.<br><br>At NORR, our residential portfolio spans decades and project types. Our approach to multi-family residential design supports smart growth and walkable neighborhoods with building wellness initiatives, integrated carbon-reduction strategies, innovative construction technologies, and resilient infrastructure. Every solution is guided by principles of design excellence, urban regeneration, inclusive context, and marketability.<br><br>Learn more about our Residential Portfolio.<br><br>As a Designer, you will work with other members of the design team in order to develop design solutions appropriate to the context, budget and aesthetic requirements of architectural projects. You will collaborate with other professional disciplines and have opportunities to coordinate the design through all phases of the project.<br><br>Duties and Responsibilities<br><br><ul><li>Compiles information from reports and published documents; evaluates and analyzes the information to understand broad requirements of project</li><li>Develops architectural designs, to ensure an exemplary solution is delivered that meets quality parameters, project timelines and budgetary requirements</li><li>Coordinates design intent with other disciplines</li><li>Integrates engineering requirements, site surveys and field review information, adhering to applicable codes and jurisdictional requirements</li><li>Prepares ",
-    "location": "Edmonton, Edmonton, Alberta, Canada",
-    "salary": null,
-    "tags": [
-      "design",
-      "designer",
-      "dev",
-      "marketing",
-      "education",
-      "photoshop",
-      "engineer",
-      "digital nomad"
-    ],
-    "date_posted": "2026-07-21T06:03:24+00:00",
-    "scraped_at": "2026-07-22T08:03:25.210115+00:00"
-  },
-  {
-    "source": "remoteok",
     "id": "1135133",
     "title": "Customer Experience Specialist",
     "company": "DraftKings Inc.",
@@ -22879,5 +22844,31 @@
     "tags": [],
     "date_posted": "2026-08-09T19:00:20",
     "scraped_at": "2026-08-10T00:44:11.491526+00:00"
+  },
+  {
+    "source": "hackernews",
+    "id": "49238529",
+    "title": "Applied for your product design role and got a generic rejection. The role also ",
+    "company": "Applied for your product design role and got a generic rejection. The role also ",
+    "url": "https://news.ycombinator.com/item?id=49238529",
+    "description": "Applied for your product design role and got a generic rejection. The role also states its US remote and its been open since forever. Is this a real role?",
+    "location": "See post",
+    "salary": null,
+    "tags": [],
+    "date_posted": "2026-08-10T02:16:24",
+    "scraped_at": "2026-08-10T07:02:51.424023+00:00"
+  },
+  {
+    "source": "hackernews",
+    "id": "49238503",
+    "title": "Curious about why your US roles are remote while your India roles are in office?",
+    "company": "Curious about why your US roles are remote while your India roles are in office?",
+    "url": "https://news.ycombinator.com/item?id=49238503",
+    "description": "Curious about why your US roles are remote while your India roles are in office? Is remote flexibility not offered to India employees?",
+    "location": "See post",
+    "salary": null,
+    "tags": [],
+    "date_posted": "2026-08-10T02:11:32",
+    "scraped_at": "2026-08-10T07:02:51.424057+00:00"
   }
 ]
