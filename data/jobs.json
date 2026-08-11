@@ -1,38 +1,6 @@
 [
   {
     "source": "remoteok",
-    "id": "1135183",
-    "title": "Customer Support",
-    "company": "Re Lytics HR",
-    "url": "https://remoteOK.com/remote-jobs/remote-customer-support-re-lytics-hr-1135183",
-    "description": "<p><strong>Customer Support Specialist (Arabic) | Remote</strong></p> <p>Â </p> <p>We are actively seeking a detail-oriented <strong>Remote Customer Support (Arabic) Specialist</strong> to join our team. In this role, you will be responsible for delivering professional and timely support to Arabic-speaking customers through various communication channels.</p> <p>You will handle customer inquiries, resolve issues efficiently, and ensure a positive customer experience at every interaction. Strong communication skills in Arabic, excellent problem-solving ability, and attention to detail are essential for success in this remote position. Your contribution will play a key role in maintaining customer satisfaction and supporting the overall growth of our organization.</p> <p>Â </p> <p><strong>Key Responsibilities</strong></p> <p>Â </p> <p><strong>1) Customer Communication</strong></p> <ul><li>Respond to customer inquiries via email, chat, or phone in Arabic (and English if required) </li><li>Provide accurate information about products, services, and processes </li><li>Maintain clear, professional, and empathetic communication </li><br></ul> <p><strong>2) Issue Resolution</strong></p> <ul><li>Assist customers with troubleshooting and resolving common issues </li><li>Identify root causes and guide customers through solutions </li><li>Escalate complex or sensitive cases to appropriate teams </li><br></ul> <p><strong>3) Case Management</strong></p> <ul><li>Document all customer interactions in CRM or support systems </li><li>Track open cases and follow up to ensure timely resolution </li><li>Maintain accurate and up-to-date customer records </li><br></ul> <p><strong>4) Quality and Service Standards</strong></p> <ul><li>Ensure all responses meet company quality and communication standards </li><li>Handle complaints with professionalism and empathy </li><li>Support continuous improvement by identifying recurring issues </li><br></ul> <p><strong>5) Team Collaboration</strong></p",
-    "location": "Ø§ÙÙØ¯ÙÙØ©, Ø§ÙÙØ¯ÙÙØ© Ø§ÙÙØ¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
-    "salary": null,
-    "tags": [
-      "sys admin",
-      "customer support",
-      "exec",
-      "education",
-      "marketing",
-      "sales",
-      "medical",
-      "virtual assistant",
-      "design",
-      "testing",
-      "travel",
-      "php",
-      "microsoft",
-      "content writing",
-      "ops",
-      "digital nomad",
-      "hr",
-      "technical"
-    ],
-    "date_posted": "2026-07-20T08:20:02+00:00",
-    "scraped_at": "2026-07-22T08:03:25.211512+00:00"
-  },
-  {
-    "source": "remoteok",
     "id": "1135185",
     "title": "Project Management Officer",
     "company": "Glints",
@@ -22819,5 +22787,18 @@
     "tags": [],
     "date_posted": "2026-08-10T14:50:44",
     "scraped_at": "2026-08-10T18:38:44.181715+00:00"
+  },
+  {
+    "source": "hackernews",
+    "id": "49248055",
+    "title": "AI Engineer (Marketing &#x2F; Construction &#x2F; Fashion &amp; Luxury)",
+    "company": "Arcforma AI (arcforma.ai)",
+    "url": "https://news.ycombinator.com/item?id=49248055",
+    "description": "Arcforma AI (arcforma.ai) | AI Engineer (Marketing &#x2F; Construction &#x2F; Fashion &amp; Luxury) | REMOTE (US only) or ONSITE NYC | Full-Time $80k-$120k + equity, or Contract $50-$150&#x2F;hr | jobs@arcforma.ai<p>We build production AI systems inside other people&#x27;s companies: hotel groups, automotive retail, creative agencies, consumer brands. One industry at a time, sitting next to the operator whose job the system changes. Very little of it is generic LLM plumbing.<p>Two ways in.<p>CONTRACT, PROJECT-BASED ($50-$150&#x2F;hr). For people who already have the domain. A scoped first project, typically three to six weeks. This is most of what we need right now, and it is how we would rather start with anyone senior.<p>FULL-TIME ($80k-$120k + equity). For strong engineers earlier on who want to go deep into one industry with us instead of staying a generalist. We teach you the vertical. You bring the engineering.<p>Pick one track. Depth in one beats a tour of all three.<p>MARKETING. Lifecycle and CRM automation, brief-to-asset pipelines, creative variants with brand guardrails that hold, attribution. You have fought HubSpot, Klaviyo, and the Meta and Google ad APIs.<p>CONSTRUCTION. Invoices in, mapped to contracts, schedule of values, and cost codes, back out as pay applications. Then RFIs, submittals, change orders, schedule impacts. You know why generic invoice parsers stall when half the input is handwritten. Weighted toward ex construction tech and people who have run operations at a GC or a sub.<p>FASHION AND LUXURY. Merchandising and assortment planning, tech packs and PLM, Shopify Plus and PIM, allocation, replenishment, demand forecasting, size curves, markdown optimization, clienteling, creative workflows.<p>ALL TRACKS: You own a system end to end (data in, evals, an interface the client actually opens), and you can sit with a non-technical operator and leave with the right spec.<p>TO APPLY: email jobs@arcforma.ai with the subject line<p>HN | TRACK | Your Name | your applicable background in one short line<p>TRACK is MKT, CON, or FASH. For example:<p>HN | FASH | Jane Okafor | 6 yrs building allocation and planning systems at a DTC apparel brand<p>The body: what you shipped that is applicable to the role, a link we can open (GitHub, a writeup, a demo), LinkedIn, and your timezone plus whether you want contract or full-time and at what rate.<p>Every application gets a reply within five business days. 20 minute call, paid trial on real work, then a project or an offer.",
+    "location": "See post",
+    "salary": null,
+    "tags": [],
+    "date_posted": "2026-08-10T18:55:58",
+    "scraped_at": "2026-08-11T00:43:44.640515+00:00"
   }
 ]
